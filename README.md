@@ -6,11 +6,7 @@ Building systems across **Machine Learning, MLOps, Agentic AI, backend engineeri
 
 ## Technologies
 
-**AI / ML:** Python · PyTorch · scikit-learn · LangGraph · LangChain · RAG · MCP<br>
-**MLOps:** MLflow · DVC · Optuna · Evidently · Prometheus · Grafana<br>
-**Backend & Data:** FastAPI · PostgreSQL · SQL Server · MongoDB · REST APIs<br>
-**Cloud & DevOps:** Docker · GitHub Actions · Microsoft Azure · AKS · ACR<br>
-**Systems:** C · C++ · x86 Assembly · Operating Systems · Compiler Construction
+Python · PyTorch · scikit-learn · LangGraph · MLflow · DVC · FastAPI · PostgreSQL · Docker · Azure · C/C++ · x86 Assembly
 
 ## Contact
 
