@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mahad Amir
 
-<!--
-**mahadamir19/mahadamir19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science @ LUMS '27**
 
-Here are some ideas to get you started:
+Building systems across **Machine Learning, MLOps, Agentic AI, backend engineering, and low-level systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**AI / ML:** Python · PyTorch · scikit-learn · LangGraph · LangChain · RAG · MCP<br>
+**MLOps:** MLflow · DVC · Optuna · Evidently · Prometheus · Grafana<br>
+**Backend & Data:** FastAPI · PostgreSQL · SQL Server · MongoDB · REST APIs<br>
+**Cloud & DevOps:** Docker · GitHub Actions · Microsoft Azure · AKS · ACR<br>
+**Systems:** C · C++ · x86 Assembly · Operating Systems · Compiler Construction
+
+## Contact
+
+* **Email:** [mahadamir19@gmail.com](mailto:mahadamir19@gmail.com)
+* **LinkedIn:** [Mahad Amir](https://www.linkedin.com/in/mahad-amir-7141b9371)
